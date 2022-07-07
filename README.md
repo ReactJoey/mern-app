@@ -12,7 +12,7 @@ npm install
 ```
 
 1. Gitignore .env file in root.
-2. Add token, keys, passwords as a variables to .env file.
+2. Add token, keys, passwords as variables (and export them) to .env file.
 
 ```
 npm run dev
