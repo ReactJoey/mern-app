@@ -21,7 +21,6 @@ npm run dev
 That should do it. )
 
 
-### ~ J. A. - Full-Stack Developer
 ## Thank you for your time!
 ### ReactJoey - J. A.
 [ReactJoey here on GitHub](https://github.com/ReactJoey)
